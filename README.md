@@ -11,7 +11,7 @@
   - 개인 SNS, 이메일을 통해 이루어지고 있는 월간 메일링 서비스를 하나로 관리하는 출판 플랫폼
     - [서비스 URL](https://monthsub.netlify.app/)
     - [Github](https://github.com/prgrms-web-devcourse/Team_Sagack_MonthSub_BE)
-    - [Notion](hhttps://noisy-sweatpants-e78.notion.site/Monthsub-f3d6de8ed2014cb9801691c101f7c3e5)
+    - [Notion](https://noisy-sweatpants-e78.notion.site/Monthsub-f3d6de8ed2014cb9801691c101f7c3e5) (트러블슈팅, 기술문서 등 정리 되어있습니다.)
     - [Swagger](https://monthsub.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/)
 
 </br>
