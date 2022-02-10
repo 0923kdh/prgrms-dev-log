@@ -11,9 +11,8 @@
   - 개인 SNS, 이메일을 통해 이루어지고 있는 월간 메일링 서비스를 하나로 관리하는 출판 플랫폼
     - [서비스 URL](https://monthsub.netlify.app/)
     - [Github](https://github.com/prgrms-web-devcourse/Team_Sagack_MonthSub_BE)
-    - [Notion](https://noisy-sweatpants-e78.notion.site/Monthsub-f3d6de8ed2014cb9801691c101f7c3e5)
-    - [트러블 슈팅](https://noisy-sweatpants-e78.notion.site/81aebf520b2b4f25aa2d08bc8522d6ae)
-    - [기술 문서](https://noisy-sweatpants-e78.notion.site/0840f7457ffc462687b1bb0a04e3b340)
+    - [Notion](hhttps://noisy-sweatpants-e78.notion.site/Monthsub-f3d6de8ed2014cb9801691c101f7c3e5) (트러블슈팅, 기술문서 등 정리 되어있습니다.)
+    - [Swagger](https://monthsub.com/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/)
 
 </br>
 
@@ -21,7 +20,7 @@
   -  Interpark 서비스의 티켓 예매 및 결제 기능 클론 프로젝트
       - [GitHub](https://github.com/prgrms-be-devcourse/BEDV1_Interparkyu)
       - 개발만큼 중요도 높았던 문서화 [Notion](https://noisy-sweatpants-e78.notion.site/Interparkyu-015a3c948a334c31a0702a7d86093d78)
-      - 가상 인터뷰 방식을 이용하여 작성한 [프로젝트 회고](https://www.notion.so/7958b2d0f8034f5ca98a3fa16987a202)
+      - 가상 인터뷰 방식을 이용하여 작성한 [프로젝트 회고](https://noisy-sweatpants-e78.notion.site/67c2735ff3b24568b0b7cb9931595685)
 
 </br>
 
